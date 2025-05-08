@@ -21,7 +21,7 @@
         </button>
         <div class="dropdown-content">
           <a href="#">Deutsch</a>
-          <a href="#" class="active">English</a>
+          <a href="#">English</a>
           <a href="#">Español</a>
           <a href="#">Hrvatski</a>
           <a href="#">Norsk</a>
